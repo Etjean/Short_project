@@ -1,11 +1,0 @@
---2018-09-12 11:45:17--  https://www.ncbi.nlm.nih.gov/nuccore/NC_000908.2?report=fasta
-Résolution de ewebproxy.univ-paris-diderot.fr (ewebproxy.univ-paris-diderot.fr)… 81.194.35.225, 2001:660:3301:80fb::225
-Connexion à ewebproxy.univ-paris-diderot.fr (ewebproxy.univ-paris-diderot.fr)|81.194.35.225|:3128… connecté.
-requête Proxy transmise, en attente de la réponse… 200 OK
-Taille : non indiqué [text/html]
-Enregistre : «NC_000908.2?report=fasta»
-
-         NC_000908     [<=>              ]       0  --.-KB/s               NC_000908.2?report     [ <=>             ]  81,70K   526KB/s    ds 0,2s    
-
-2018-09-12 11:45:19 (526 KB/s) - «NC_000908.2?report=fasta» enregistré [83661]
-
