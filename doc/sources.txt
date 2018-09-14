@@ -1,0 +1,18 @@
+> Doc about types of graphs, with graphics illustrations
+https://dzone.com/articles/algorithm-week-graphs-and?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%253A%20javalobby%252Ffrontpage%20%2528Javalobby%20%252F%20Java%20Zone%2529
+
+> Wikipédia for adjacency lists
+https://en.wikipedia.org/wiki/Adjacency_list#Application_in_computer_science
+
+> Stackoverflow discussion about OO graphs vs Adjacency lists vs Adjacency Matrix
+https://stackoverflow.com/questions/5886274/comparing-object-graph-representation-to-adjacency-list-and-matrix-representatio
+
+
+
+
+
+
+
+
+
+
